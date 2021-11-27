@@ -18,7 +18,8 @@
 #Выполнение
 
 5.
-![изображение](https://user-images.githubusercontent.com/73441333/143623463-ec311704-b08a-4674-8c34-ab81d3a7f774.png)
+![изображение](https://user-images.githubusercontent.com/73441333/143667056-19297a4a-e44b-41d9-b52e-2a638225c637.png)
+
 6.
 ![изображение](https://user-images.githubusercontent.com/73441333/143623906-f44b2870-3144-4d35-ae73-5662c0c8ba2b.png)
 Вывод:
