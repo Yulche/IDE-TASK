@@ -35,6 +35,16 @@
 ![изображение](https://user-images.githubusercontent.com/73441333/143667643-822a7a41-0112-4062-a472-08fe3fdd8ca4.png)
 **Вывод**: время работы программы сильно сократилось, посльку больше нет затрат на ручной ввод.
 
+**Изображения**
+- Исходник
+![изображение](https://user-images.githubusercontent.com/73441333/143670331-e62509e7-6b66-416d-9433-55e2187a1aba.png)
+
+- С фильтром *filter.py*
+![изображение](https://user-images.githubusercontent.com/73441333/143670393-874e294c-8a49-42f5-9749-3b7f4e7c0142.png)
+
+- С фильтром *filter_with_filename.py*
+![изображение](https://user-images.githubusercontent.com/73441333/143670414-5ebc3d37-b6d6-44f1-8fcc-2dcb4a43e57f.png)
+
 # 10.
 для *get_average_brightness*
 ![изображение](https://user-images.githubusercontent.com/73441333/143668778-4f22ef92-529c-4c7d-96f5-70cb19625000.png)
