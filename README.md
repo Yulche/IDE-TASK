@@ -33,3 +33,6 @@
 ![изображение](https://user-images.githubusercontent.com/73441333/143667643-822a7a41-0112-4062-a472-08fe3fdd8ca4.png)
 Вывод: время работы программы сильно сократилось, посльку больше нет затрат на ручной ввод.
 
+10.
+для get_average_brightness
+![изображение](https://user-images.githubusercontent.com/73441333/143668778-4f22ef92-529c-4c7d-96f5-70cb19625000.png)
