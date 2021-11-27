@@ -36,3 +36,6 @@
 10.
 для get_average_brightness
 ![изображение](https://user-images.githubusercontent.com/73441333/143668778-4f22ef92-529c-4c7d-96f5-70cb19625000.png)
+
+11.
+Доктесты успешно пройдены. Для функции convert_image_to_mosaic доктест не создан, поскольку результатом является изображение
